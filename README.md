@@ -48,4 +48,4 @@ Date       || Amount || Balance
 
 ## 📸 Console Screenshot
 
-
+![Console output](screenshots/result.png)

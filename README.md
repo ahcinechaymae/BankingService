@@ -35,16 +35,6 @@ java Main
 
 ---
 
-## 🖥️ Expected Output
-
-```
-Date       || Amount || Balance
-28/06/2025 || -500   || 2500
-28/06/2025 || 2000   || 3000
-28/06/2025 || 1000   || 1000
-
-```
-
 
 ## 📸 Console Screenshot
 
